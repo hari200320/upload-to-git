@@ -1,4 +1,4 @@
-Create a repository in Github and then Follow these steps:
+Create a repository in Github(without adding a readme file) and then Follow these steps:
 
 Steps to Push to Github:
 1. Go to your folder/file which you want to push 
