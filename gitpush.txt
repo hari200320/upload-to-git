@@ -20,3 +20,10 @@ Steps to Push to Github:
 6. Push your changes to the remote repository:
     git branch -M main
     git push -u origin main
+
+
+
+If you want to just push the changes into the repo:
+1. git add .
+2. git commit -m "message"
+3. git push orign main 
