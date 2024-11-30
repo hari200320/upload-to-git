@@ -1,0 +1,22 @@
+Create a repository in Github and then Follow these steps:
+
+Steps to Push to Github:
+1. Go to your folder/file which you want to push 
+
+2. Initialize a Git repository: 
+    command : git init
+
+3. Add your file to the staging area:
+    git add <your-filename>
+    or if you want to add changes from all the files:
+    git add .
+
+4. Commit your changes:
+    git commit -m "Initial commit"
+
+5. Link your local repository to the GitHub repository:
+    git remote add origin https://github.com/<your-username>/<repository-name>.git
+
+6. Push your changes to the remote repository:
+    git branch -M main
+    git push -u origin main
